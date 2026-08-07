@@ -14,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
