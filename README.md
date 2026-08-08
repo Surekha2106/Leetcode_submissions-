@@ -34,5 +34,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0177-nth-highest-salary) |
+| [0182-duplicate-emails](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0182-duplicate-emails) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
