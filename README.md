@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0006-zigzag-conversion) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
