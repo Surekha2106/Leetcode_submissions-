@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0027-remove-element) |
+| [0844-backspace-string-compare](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0058-length-of-last-word) |
+| [0844-backspace-string-compare](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0844-backspace-string-compare) |
 ## Database
 |  |
 | ------- |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0101-symmetric-tree) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
