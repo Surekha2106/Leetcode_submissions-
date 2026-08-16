@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0051-n-queens) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3731-find-missing-elements](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0058-length-of-last-word) |
 | [0844-backspace-string-compare](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0844-backspace-string-compare) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Database
 |  |
 | ------- |
