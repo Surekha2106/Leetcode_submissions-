@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0051-n-queens) |
+| [0575-distribute-candies](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0575-distribute-candies) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3731-find-missing-elements](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0001-two-sum) |
+| [0575-distribute-candies](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0575-distribute-candies) |
 | [3731-find-missing-elements](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
