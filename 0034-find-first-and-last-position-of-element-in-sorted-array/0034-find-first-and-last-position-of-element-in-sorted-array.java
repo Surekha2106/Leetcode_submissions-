@@ -4,7 +4,6 @@ class Solution {
         int first = -1;
         int last = -1;
 
-        // Find first occurrence
         int left = 0, right = nums.length - 1;
 
         while (left <= right) {
@@ -12,7 +11,7 @@ class Solution {
 
             if (nums[mid] == target) {
                 first = mid;
-                right = mid - 1;   // search left
+                right = mid - 1;  
             } 
             else if (nums[mid] < target) {
                 left = mid + 1;
@@ -21,8 +20,6 @@ class Solution {
                 right = mid - 1;
             }
         }
-
-        // Find last occurrence
         left = 0;
         right = nums.length - 1;
 
@@ -31,7 +28,7 @@ class Solution {
 
             if (nums[mid] == target) {
                 last = mid;
-                left = mid + 1;    // search right
+                left = mid + 1;    
             } 
             else if (nums[mid] < target) {
                 left = mid + 1;
@@ -40,7 +37,6 @@ class Solution {
                 right = mid - 1;
             }
         }
-
         return new int[]{first, last};
     }
 }
