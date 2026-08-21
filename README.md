@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0002-add-two-numbers) |
+| [0292-nim-game](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0292-nim-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -125,4 +126,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
