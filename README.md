@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
