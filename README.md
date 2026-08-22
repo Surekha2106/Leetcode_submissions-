@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
 | [0494-target-sum](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0494-target-sum) |
 | [0575-distribute-candies](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3731-find-missing-elements](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
 | [0575-distribute-candies](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3731-find-missing-elements](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0058-length-of-last-word) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0844-backspace-string-compare) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Database
