@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0217-contains-duplicate) |
 | [0494-target-sum](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0494-target-sum) |
 | [0575-distribute-candies](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3731-find-missing-elements](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3731-find-missing-elements) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
