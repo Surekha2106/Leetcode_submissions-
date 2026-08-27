@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0349-intersection-of-two-arrays) |
 | [0494-target-sum](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0494-target-sum) |
 | [0575-distribute-candies](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3731-find-missing-elements](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3731-find-missing-elements) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0027-remove-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0349-intersection-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
