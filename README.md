@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0242-valid-anagram) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0012-integer-to-roman) |
 | [0292-nim-game](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0292-nim-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0242-valid-anagram) |
