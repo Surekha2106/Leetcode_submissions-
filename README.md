@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0560-subarray-sum-equals-k) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0575-distribute-candies) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
