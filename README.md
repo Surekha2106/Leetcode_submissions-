@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0169-majority-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0494-target-sum) |
 ## Algorithm X
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0338-counting-bits) |
 ## Divide and Conquer
