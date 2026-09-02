@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0387-first-unique-character-in-a-string) |
