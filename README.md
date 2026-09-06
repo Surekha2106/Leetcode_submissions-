@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0844-backspace-string-compare) |
 ## Linked List
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Surekha2106/Leetcode_submissions-/tree/master/0599-minimum-index-sum-of-two-lists) |
